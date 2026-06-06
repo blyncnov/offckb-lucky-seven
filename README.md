@@ -62,14 +62,23 @@ Generated deployment artifacts (also in this repo):
 
 ### Screenshots
 
-Each step of the build and deploy is shown below. Files live in [`screenshots/`](screenshots/).
+Each step of the build and deploy, captured from my terminal.
 
-| Step | What it shows | Screenshot |
-|---|---|---|
-| 1 | OffCKB devnet running on `127.0.0.1:28114` | ![](screenshots/01-offckb-node-running.png) |
-| 2 | RISC-V binary built, `file` output confirming target | ![](screenshots/02-build-success.png) |
-| 3 | `offckb deploy` output with tx hash + "tx committed" | ![](screenshots/03-deploy-success.png) |
-| 4 | `deployment/scripts.json` showing the on-chain code hash | ![](screenshots/04-scripts-json.png) |
+**Step 1 — OffCKB devnet running on `127.0.0.1:28114`**
+
+![OffCKB node running](screenshots/01-offckb-node-running.png)
+
+**Step 2 — `make build` finished, RISC-V binary produced**
+
+![Build success](screenshots/02-build-success.png)
+
+**Step 3 — `offckb deploy` with the on-chain tx hash and `tx committed.`**
+
+![Deploy success](screenshots/03-deploy-success.png)
+
+**Step 4 — `deployment/scripts.json` showing the deployed code hash and tx hash**
+
+![scripts.json](screenshots/04-scripts-json.png)
 
 ## How to run it yourself
 
