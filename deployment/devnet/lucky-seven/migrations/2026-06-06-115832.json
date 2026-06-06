@@ -1,0 +1,12 @@
+{
+  "cell_recipes": [
+    {
+      "name": "lucky-seven",
+      "tx_hash": "0x315cc0232f0952b1104ad2adea203289aae847b36eac791fbe4e1c692300891d",
+      "index": 0,
+      "occupied_capacity": 4598400000000,
+      "data_hash": "0xeebb0a9524e35826e3ec80bf1f2a0c8d68022704e373fe01c55ddb5bcca1827b"
+    }
+  ],
+  "dep_group_recipes": []
+}

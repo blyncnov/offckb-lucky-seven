@@ -47,7 +47,7 @@ This contract is deployed live on a local OffCKB devnet. Here is the on-chain in
 |---|---|
 | Network | OffCKB devnet |
 | Deploy date | 2026-06-06 |
-| Tx hash | `0xccd879de1e75e04579a342e7fd1cd56085c5c128b7844f5d0c193444500a9b19` |
+| Tx hash | `0x315cc0232f0952b1104ad2adea203289aae847b36eac791fbe4e1c692300891d` |
 | Code hash | `0xeebb0a9524e35826e3ec80bf1f2a0c8d68022704e373fe01c55ddb5bcca1827b` |
 | Hash type | `data2` |
 | Cell dep out-point index | `0` |
