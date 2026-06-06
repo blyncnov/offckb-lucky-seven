@@ -1,0 +1,21 @@
+{
+  "devnet": {
+    "lucky-seven": {
+      "codeHash": "0xeebb0a9524e35826e3ec80bf1f2a0c8d68022704e373fe01c55ddb5bcca1827b",
+      "hashType": "data2",
+      "cellDeps": [
+        {
+          "cellDep": {
+            "outPoint": {
+              "txHash": "0xccd879de1e75e04579a342e7fd1cd56085c5c128b7844f5d0c193444500a9b19",
+              "index": 0
+            },
+            "depType": "code"
+          }
+        }
+      ]
+    }
+  },
+  "testnet": {},
+  "mainnet": {}
+}
